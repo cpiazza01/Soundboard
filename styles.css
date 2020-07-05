@@ -1,0 +1,45 @@
+/* Fonts
+font-family: 'Montserrat', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+*/
+
+body {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #5fdde5;
+  color: #f37121;
+}
+
+img {
+  display: block;
+  margin: 40px auto;
+  border: solid 2px #f4ea8e;
+  border-radius: 10%;
+}
+
+.dan img, .jesus img, .tim img {
+  width: 165px;
+}
+
+
+
+.row .col-lg-3 {
+  margin-bottom: 100px;
+}
+
+.btn-sound, .btn-sound:focus, .btn-sound:visited {
+  background-color: #f4ea8e;
+  color: #f37121;
+  border: none;
+  display: block;
+  margin: 20px auto;
+}
+.btn-sound:hover {
+  color: #5fdde5;
+  background-color: #f37121;
+}
+
+.heading{
+  font-family: 'Shadows Into Light', cursive;
+  padding: 50px;
+}
