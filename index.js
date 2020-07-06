@@ -4,6 +4,14 @@ document.addEventListener("click", function(event) {
       var danDies = new Audio("sounds/dan-dies.mp3");
       danDies.play();
       break;
+      case "Heres What I'm Gonna Do":
+        var danGonnaDo = new Audio("sounds/dan-gonna-do.mp3");
+        danGonnaDo.play();
+        break;
+        case "I Thought It Was Funny":
+          var danFunny= new Audio("sounds/dan-funny.mp3");
+          danFunny.play();
+          break;
     case "Ow":
       var chrisOw = new Audio("sounds/chris-ow.mp3");
       chrisOw.play();
