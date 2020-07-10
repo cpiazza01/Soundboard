@@ -17,9 +17,6 @@ img {
   border-radius: 10%;
 }
 
-
-
-
 .row .col-lg-3 {
   margin-bottom: 100px;
 }
@@ -27,6 +24,7 @@ img {
 .btn-sound, .btn-sound:focus, .btn-sound:visited {
   background-color: #f4ea8e;
   color: #f37121;
+  padding: 20px ;
   border: none;
   display: block;
   margin: 20px auto;
