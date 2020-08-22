@@ -61,6 +61,10 @@ document.addEventListener("click", function(event) {
       var chrisOw = new Audio("sounds/chris-ow.mp3");
       chrisOw.play();
       break;
+      case "Galgamesh":
+        var galgamesh = new Audio("sounds/galgamesh.mp3");
+        galgamesh.play();
+        break;
     default:
       console.log(event.target.innerHTML);
   }
